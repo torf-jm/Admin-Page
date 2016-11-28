@@ -1,4 +1,4 @@
-package com.normalpage.common.util;
+package com.adminpage.common.util;
 
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;

@@ -1,4 +1,4 @@
-package com.normalpage.common.support.mongo;
+package com.adminpage.common.support.mongo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;

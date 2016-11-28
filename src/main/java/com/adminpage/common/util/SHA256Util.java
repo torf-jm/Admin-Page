@@ -1,4 +1,4 @@
-package com.normalpage.common.util;
+package com.adminpage.common.util;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
